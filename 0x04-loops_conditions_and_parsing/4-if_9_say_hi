@@ -12,3 +12,4 @@ do
 	fi
 	echo "Best Shool"
 	(( count++ ))
+done
